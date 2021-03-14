@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
 * Name: Manoj Kumar P S
 * Description:Prime number upto the given integer
-* Date: 3/12/2021
+* Date: 3/14/2021
 */
 import java.util.Scanner;
 public class PrimeNm {
