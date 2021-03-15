@@ -1,7 +1,7 @@
 /**
 * Name: Manoj Kumar P S
 * Description:Find the sum of the cubes of the digits of an n digit number
-* Date: 3/12/2021
+* Date: 3/14/2021
 */
 import java.util.Scanner;
 public class SumOfCubes {

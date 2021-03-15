@@ -1,7 +1,7 @@
 /**
 * Name: Manoj Kumar P S
 * Description: traffic signal using ifelse
-* Date: 3/12/2021
+* Date: 3/14/2021
 */
 import java.util.Scanner;
 public class TrafficSignal {

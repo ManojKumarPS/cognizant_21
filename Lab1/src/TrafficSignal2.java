@@ -1,7 +1,7 @@
 /**
 * Name: Manoj Kumar P S
 * Description: Traffic signal using switch
-* Date: 3/12/2021
+* Date: 3/14/2021
 */
 import java.util.Scanner;
 public class TrafficSignal2 {
