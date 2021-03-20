@@ -3,7 +3,7 @@
 * Description:return the command from url
 * Date: 3/16/2021
 */
-public class StringAssignment2 {
+public class Assignment2 {
 
 	public static void main(String[] args) {
 		String url1="https://www.cognizant.com/admin/policy/index.html";
@@ -20,10 +20,10 @@ public class StringAssignment2 {
 	}
 
 	private static String getCommand(String url1) {
-	   int commandStartIndex,commandEndIndex;
-	   commandStartIndex=url1.lastIndexOf('/')+1;
-	   commandEndIndex=url1.lastIndexOf('.');
-	   return url1.substring(commandStartIndex,commandEndIndex);
+		int commandStartIndex,commandEndIndex;
+		   commandStartIndex=url1.lastIndexOf('/')+1;
+		   commandEndIndex=url1.lastIndexOf('.');
+		   return url1.substring(commandStartIndex,commandEndIndex);
 	
 	}
 
